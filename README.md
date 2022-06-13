@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasia (Kate)</h1>
 <h3 align="center">I am an open-minded, individual and a novice web developer, graphic designer and avid computer games player. Student at University of Birmingham.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katarzynajk" alt="katarzynajk" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/katarzynajk](https://github.com/katarzynajk)
 
 - 📝 Here is my portfolio [https://katarzynajk.github.io/portfolio-project/](https://katarzynajk.github.io/portfolio-project/)
